@@ -1,7 +1,7 @@
 # PyTorch-Lightning
 Checking out PL here
 
-#### tried out tpu
+#### tried out TPU
 
 works pretty well for larger batch sizes (trained with MNIST)
 
