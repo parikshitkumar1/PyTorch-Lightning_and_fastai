@@ -1,7 +1,7 @@
 # PyTorch-Lightning and fastai
-Checking out PL here
+Checking out PL and fastai here
 
-#### Tried out TPU
+#### Tried out TPU for lightning
 
 works pretty well for larger batch sizes (trained with MNIST)
 
