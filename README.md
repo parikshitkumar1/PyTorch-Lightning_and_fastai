@@ -1,4 +1,4 @@
-# PyTorch-Lightning and FastAI
+# PyTorch-Lightning and fastai
 Checking out PL here
 
 #### Tried out TPU
